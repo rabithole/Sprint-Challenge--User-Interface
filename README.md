@@ -38,21 +38,21 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-  a.	Block level elements take up the entire width of the webpage. Height and width can be tailored to our needs. 
-  b.	Inline elements do not take up the entire width of a webpage and height and width have no effect. 
+       a.	Block level elements take up the entire width of the webpage. Height and width can be tailored to our needs. 
+      b.	Inline elements do not take up the entire width of a webpage and height and width have no effect. 
 
 3. What are the 4 areas of the box model?
 
-  a.	Margin, border, padding and content.
+      a.	Margin, border, padding and content.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-  a.	Cross-axis
+      a.	Cross-axis
 
 5. Explain why git is valuable to a team of developers.
 
-  a.	It allows large groups of developers to collaborate on the same project without affecting the same code. 
-  b.	Also, it keeps track of past versions that can be reverted to in case of unexpected bugs etc…
+      a.	It allows large groups of developers to collaborate on the same project without affecting the same code. 
+      b.	Also, it keeps track of past versions that can be reverted to in case of unexpected bugs etc…
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
